@@ -1,5 +1,5 @@
 # kmedoids
-The Python implementation of [k-medoids](https://en.wikipedia.org/wiki/K-medoids). 
+Python 3 fork of [letiantian/kmedoids](https://github.com/letiantian/kmedoids).
 
 ## Example
 ```python
