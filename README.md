@@ -1,6 +1,5 @@
 # kmedoids
-Python 3 version of [https://github.com/letiantian/kmedoids]
-
+The Python implementation of [k-medoids](https://en.wikipedia.org/wiki/K-medoids). 
 
 ## Example
 ```python
